@@ -1,0 +1,72 @@
+
+__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Google API tokens and credentials
+google_token.json
+token.json
+credentials.json
+client_secrets.json
+*.credentials
+*_token.*
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+
+# Project specific
+Reels/
+# Add to .gitignore
+client_secret_424719530377-2p4q85j3udn6d8jbhhlgemrrugf41gnv.apps.googleusercontent.com.json
+client_secret*.json
+client_secret*.json
